@@ -1,0 +1,293 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Tasty Vegan Lasagne",
+      "image": "/images/tasty_vegan_lasagne.jpg",
+      "description": "LAYERS OF PASTA, RICH TOMATO & CHIANTU RAGÙ, CREAMY MUSHROOM SAUCE",
+      "category": "Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 600",
+      "availability": false
+    },
+    {
+      "id": 2,
+      "name": "Epic Vegan Lasagne",
+      "image": "/images/epic_vegan_lasagne.jpg",
+      "description": "FRESH PASTA, PORCINI MUSHROOMS & CHIANTI",
+      "category": "Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 570",
+      "availability": false
+    },
+    {
+      "id": 3,
+      "name": "Creamy Seafood Lasagne",
+      "image": "/images/creamy_seafood_lasagne.jpg",
+      "description": "WITH SAFFRON & MUSSEL BÉCHAMEL",
+      "category": "Non-Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 850",
+      "availability": false
+    },
+    {
+      "id": 4,
+      "name": "Spinach Lasagne",
+      "image": "/images/spinach_lasagne.jpg",
+      "description": "VEGETARIAN SPINACH LASAGNE WITH CHEESE",
+      "category": "Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 550",
+      "availability": false
+    },
+    {
+      "id": 5,
+      "name": "Incredible Leftover Lasagne",
+      "image": "/images/incredible_leftover_lasagne.jpg",
+      "description": "WITH HOMEMADE PASTA, RICH RAGÙ & CHEESY BÉCHAMEL",
+      "category": "Non-Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 700",
+      "availability": false
+    },
+    {
+      "id": 6,
+      "name": "Ultimate Veggie Lasagne",
+      "image": "/images/ultimate_veggie_lasagne.jpg",
+      "description": "HOMEMADE HERBY PESTO & CRISPY SEEDS",
+      "category": "Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 500",
+      "availability": false
+    },
+    {
+      "id": 7,
+      "name": "Aubergine Lasagne",
+      "image": "/images/aubergine_lasagne.jpg",
+      "description": "WITH A HINT OF CHILLI & FRESH THYME",
+      "category": "Vegetarian",
+      "type": "Lasagne",
+      "price": "Rs. 500",
+      "availability": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 1,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 1,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 2,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 2,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 4,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 4,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 4,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 5,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 5,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 5,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 6,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 6,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 6,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 7,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 7,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    }
+  ],
+  "chefs": [
+    {
+      "id": 1,
+      "name": "Paula Deen",
+      "image": "/images/Paula_Deen.jpg",
+      "designation": "American Masterchef"
+    },
+    {
+      "id": 2,
+      "name": "Alessandro Borghese",
+      "image": "/images/Alessandro_Borghese.jpg",
+      "designation": "Italial Masterchef"
+    },
+    {
+      "id": 3,
+      "name": "Aldo Zilli",
+      "image": "/images/Aldo_Zilli.jpg",
+      "designation": "Italian Chef"
+    },
+    {
+      "id": 4,
+      "name": "Felipe Schaedler",
+      "image": "/images/Felipe_Schaedler.jpg",
+      "designation": "Brazilian Masterchef"
+    },
+    {
+      "id": 5,
+      "name": "Kunal Kapur",
+      "image": "/images/Kunal_Kapur.jpg",
+      "designation": "Indian Masterchef"
+    },
+    {
+      "id": 6,
+      "name": "Nadia Santini",
+      "image": "/images/Nadia_Santini.jpg",
+      "designation": "Master Chef"
+    },
+    {
+      "id": 7,
+      "name": "Nick DiGiovanni",
+      "image": "/images/Nick_DiGiovanni.jpg",
+      "designation": "Main Chef"
+    }
+  ],
+  "feedback": [
+    {
+      "firstName": "Rahul",
+      "lastName": "Bansal",
+      "contactNo": "6577869700",
+      "email": "rk1484990@gmail.com",
+      "agree": true,
+      "contactType": "email",
+      "feedback": "test",
+      "date": "2021-02-11T18:38:23.063Z",
+      "id": 1
+    }
+  ]
+}
